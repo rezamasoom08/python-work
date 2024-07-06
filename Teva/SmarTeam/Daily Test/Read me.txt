@@ -1,0 +1,6 @@
+1. To download latest and compatible edge driver, go to below link:
+
+	https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13LH
+
+
+

@@ -1,0 +1,14 @@
+/TPT/TPT/Form/Patient Technologies
+/TPT/TPT/Quality Document/QSR
+/TPT/TPT/Standard Operating Procedure/Patient Technologies
+/TPT/TPT/Training Document/Patient Technologies
+/TPT/TPT/Work Instruction/Patient Technologies
+/VALIDATION/TPT/Computer System/DHA
+/VALIDATION/TPT/Computer System/DHPNG
+/VALIDATION/TPT/Computer System/Digihaler
+/VALIDATION/TPT/Computer System/Digihaler Dashboard EU GB
+/VALIDATION/TPT/Computer System/Digihaler Dashboard Ver 4.2
+/VALIDATION/TPT/Computer System/Digihaler Ver 1.3
+/VALIDATION/TPT/Computer System/GoResp
+/VALIDATION/TPT/Computer System/Program Dashboard
+/VALIDATION/TPT/Computer System/IDH

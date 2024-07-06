@@ -1,0 +1,10 @@
+from selenium import webdriver
+driver= webdriver.Chrome()
+driver.get("file:///C:/Users/Mreza/Documents/VS Code/Python/Automation/Exercise Files/CH02/html_code_02.html")
+login_form = driver.find_element("id", 'loginForm')
+print("My login form element is:")
+print(login_form)
+username = driver.find_element("name", 'username')
+print("My input element is:")
+print(username)
+driver.close()
